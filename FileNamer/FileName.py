@@ -8,7 +8,7 @@ curr_datetime = datetime.now().strftime('%Y-%m-%d-%H-%M-%S')
 # print(curr_datetime)
 
 # Select A Folder To Store The files {Not Necessary though}
-temp_directory = "temp/"
+temp_directory = "temp/" 
 
 # Beginning of the filename that you must want
 file_name = "FN_"
